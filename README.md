@@ -1,2 +1,4 @@
-# alexandr_romashko
-Personal web site
+# Alexandr Romashko personal web site
+I am a Machine Learning Researcher at Kingston University, where I research and develop ML and CV approaches of segmentation different materials on spectral hypercube images. I have over 15 years of experience in the information technology and services industry, working with various programming languages, frameworks, and tools.
+
+My core competencies include ML, AI, cloud development, software development, integration, and automation. I am proficient with Python, which is my main development instrument, as well as C#, Java, MS VBA, VBS, Ruby, JavaScript, Golang, and ABAP. I am also certified in GCP ML and Machine Learning with TensorFlow on Google Cloud Platform. Additionally, I have deep dev skills in MS PowerBI product and OLAP cubes, and I can create mobile apps for both Android and iOS using "no-code" platforms. I am passionate about writing clean, efficient, and accessible code, and I have a strong problem-solving and troubleshooting mindset.
